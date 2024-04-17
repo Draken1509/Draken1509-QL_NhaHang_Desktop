@@ -1,0 +1,8 @@
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\TestChart\bin\Debug\TestChart.exe.config
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\TestChart\obj\Debug\TestChart.exe
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\TestChart\obj\Debug\TestChart.pdb
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\TestChart\obj\Debug\TestChart.Form1.resources
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\TestChart\obj\Debug\TestChart.Properties.Resources.resources
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\TestChart\obj\Debug\testchangName.csproj.GenerateResource.Cache
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\TestChart\bin\Debug\TestChart.exe
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\TestChart\bin\Debug\TestChart.pdb

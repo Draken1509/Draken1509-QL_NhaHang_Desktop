@@ -1,0 +1,45 @@
+D:\Nam4_HK1\PTPMUDTM\BaiCuoiKi\QL_NhaHang\DTO\bin\Debug\DTO.dll
+D:\Nam4_HK1\PTPMUDTM\BaiCuoiKi\QL_NhaHang\DTO\bin\Debug\DTO.pdb
+D:\Nam4_HK1\PTPMUDTM\BaiCuoiKi\QL_NhaHang\DTO\obj\Debug\DTO.dll
+D:\Nam4_HK1\PTPMUDTM\BaiCuoiKi\QL_NhaHang\DTO\obj\Debug\DTO.pdb
+D:\Nam4_HK1\PTPMUDTM\BaiCuoiKi\QL_NhaHang\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DTO\bin\Debug\DTO.dll
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DTO\bin\Debug\DTO.pdb
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DTO\obj\Debug\DTO.dll
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DTO\obj\Debug\DTO.pdb
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DTO\bin\Debug\DTO.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DTO\bin\Debug\DTO.pdb
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DTO\bin\Debug\Syncfusion.Compression.Base.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DTO\bin\Debug\Syncfusion.DocIO.Base.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DTO\bin\Debug\Syncfusion.Compression.Base.xml
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DTO\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DTO\obj\Debug\DTO.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DTO\obj\Debug\DTO.pdb
+D:\PTUDTM\test3\QL_NhaHang\DTO\bin\Debug\DTO.dll
+D:\PTUDTM\test3\QL_NhaHang\DTO\bin\Debug\DTO.pdb
+D:\PTUDTM\test3\QL_NhaHang\DTO\bin\Debug\Syncfusion.Compression.Base.dll
+D:\PTUDTM\test3\QL_NhaHang\DTO\bin\Debug\Syncfusion.DocIO.Base.dll
+D:\PTUDTM\test3\QL_NhaHang\DTO\bin\Debug\Syncfusion.Compression.Base.xml
+D:\PTUDTM\test3\QL_NhaHang\DTO\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\PTUDTM\test3\QL_NhaHang\DTO\obj\Debug\DTO.dll
+D:\PTUDTM\test3\QL_NhaHang\DTO\obj\Debug\DTO.pdb
+D:\PTUDTM\test3\QL_NhaHang\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DTO\bin\Debug\DTO.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DTO\bin\Debug\DTO.pdb
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DTO\bin\Debug\Syncfusion.Compression.Base.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DTO\bin\Debug\Syncfusion.DocIO.Base.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DTO\bin\Debug\Syncfusion.Compression.Base.xml
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DTO\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DTO\obj\Debug\DTO.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DTO\obj\Debug\DTO.pdb
+D:\PTUDTM\test5\QL_NhaHang\DTO\bin\Debug\DTO.dll
+D:\PTUDTM\test5\QL_NhaHang\DTO\bin\Debug\DTO.pdb
+D:\PTUDTM\test5\QL_NhaHang\DTO\bin\Debug\Syncfusion.Compression.Base.dll
+D:\PTUDTM\test5\QL_NhaHang\DTO\bin\Debug\Syncfusion.DocIO.Base.dll
+D:\PTUDTM\test5\QL_NhaHang\DTO\bin\Debug\Syncfusion.Compression.Base.xml
+D:\PTUDTM\test5\QL_NhaHang\DTO\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\PTUDTM\test5\QL_NhaHang\DTO\obj\Debug\DTO.dll
+D:\PTUDTM\test5\QL_NhaHang\DTO\obj\Debug\DTO.pdb
+D:\PTUDTM\test5\QL_NhaHang\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache

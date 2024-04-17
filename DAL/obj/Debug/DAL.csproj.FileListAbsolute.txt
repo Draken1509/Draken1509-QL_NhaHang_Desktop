@@ -1,0 +1,165 @@
+D:\Nam4_HK1\PTPMUDTM\BaiCuoiKi\QL_NhaHang\DAL\bin\Debug\DAL.dll.config
+D:\Nam4_HK1\PTPMUDTM\BaiCuoiKi\QL_NhaHang\DAL\bin\Debug\DAL.dll
+D:\Nam4_HK1\PTPMUDTM\BaiCuoiKi\QL_NhaHang\DAL\bin\Debug\DAL.pdb
+D:\Nam4_HK1\PTPMUDTM\BaiCuoiKi\QL_NhaHang\DAL\bin\Debug\DTO.dll
+D:\Nam4_HK1\PTPMUDTM\BaiCuoiKi\QL_NhaHang\DAL\bin\Debug\DTO.pdb
+D:\Nam4_HK1\PTPMUDTM\BaiCuoiKi\QL_NhaHang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Nam4_HK1\PTPMUDTM\BaiCuoiKi\QL_NhaHang\DAL\obj\Debug\DAL.dll
+D:\Nam4_HK1\PTPMUDTM\BaiCuoiKi\QL_NhaHang\DAL\obj\Debug\DAL.pdb
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\DAL.dll.config
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\DAL.dll
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\DAL.pdb
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\DTO.dll
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\DTO.pdb
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\obj\Debug\DAL.dll
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\obj\Debug\DAL.pdb
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\DAL.dll.config
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\DAL.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\DAL.pdb
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\DTO.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\Syncfusion.Compression.Base.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\Syncfusion.DocIO.Base.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\Syncfusion.XlsIO.Base.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\DTO.pdb
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\Syncfusion.Compression.Base.xml
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\Syncfusion.XlsIO.Base.xml
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\obj\Debug\DAL.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\obj\Debug\DAL.pdb
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\bin\Debug\Guna.UI.dll
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\HK7\PTUDTM\DOAN_PTUDTM\QL_NhaHang\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\DAL.dll.config
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\DAL.dll
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\DAL.pdb
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\DTO.dll
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\Syncfusion.Compression.Base.dll
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\Syncfusion.DocIO.Base.dll
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\Syncfusion.XlsIO.Base.dll
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\DTO.pdb
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\Syncfusion.Compression.Base.xml
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\Syncfusion.XlsIO.Base.xml
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test2\QL_NhaHang\DAL\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test2\QL_NhaHang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\PTUDTM\test2\QL_NhaHang\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\PTUDTM\test2\QL_NhaHang\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+D:\PTUDTM\test2\QL_NhaHang\DAL\obj\Debug\DAL.dll
+D:\PTUDTM\test2\QL_NhaHang\DAL\obj\Debug\DAL.pdb
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\Syncfusion.DocIO.Base.dll
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\Syncfusion.DocIO.Base.xml
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\PC\OneDrive\Tài liệu\GitHub\QL_NhaHang\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\DAL.dll.config
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\DAL.dll
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\DAL.pdb
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\DTO.dll
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\Syncfusion.Compression.Base.dll
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\Syncfusion.DocIO.Base.dll
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\Syncfusion.XlsIO.Base.dll
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\DTO.pdb
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\Syncfusion.Compression.Base.xml
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\Syncfusion.XlsIO.Base.xml
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test3\QL_NhaHang\DAL\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test3\QL_NhaHang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\PTUDTM\test3\QL_NhaHang\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\PTUDTM\test3\QL_NhaHang\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+D:\PTUDTM\test3\QL_NhaHang\DAL\obj\Debug\DAL.dll
+D:\PTUDTM\test3\QL_NhaHang\DAL\obj\Debug\DAL.pdb
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\DAL.dll.config
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\DAL.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\DAL.pdb
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\DTO.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\Syncfusion.Compression.Base.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\Syncfusion.DocIO.Base.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\Syncfusion.XlsIO.Base.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\DTO.pdb
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\Syncfusion.Compression.Base.xml
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\Syncfusion.XlsIO.Base.xml
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\obj\Debug\DAL.dll
+D:\HUFI\HK7\PTPMUDTM\DA_LTCSHARP2_NHOM_08\SOURCE\QL_NhaHang\DAL\obj\Debug\DAL.pdb
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\DAL.dll.config
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\DAL.dll
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\DAL.pdb
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\DTO.dll
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\Syncfusion.Compression.Base.dll
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\Syncfusion.DocIO.Base.dll
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\Syncfusion.XlsIO.Base.dll
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\DTO.pdb
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\Syncfusion.Compression.Base.xml
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\Syncfusion.DocIO.Base.xml
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\Syncfusion.XlsIO.Base.xml
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test5\QL_NhaHang\DAL\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\PTUDTM\test5\QL_NhaHang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\PTUDTM\test5\QL_NhaHang\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\PTUDTM\test5\QL_NhaHang\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+D:\PTUDTM\test5\QL_NhaHang\DAL\obj\Debug\DAL.dll
+D:\PTUDTM\test5\QL_NhaHang\DAL\obj\Debug\DAL.pdb
