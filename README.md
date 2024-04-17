@@ -12,8 +12,27 @@
  <h4> Một số màn hình :</h4>
  <p>Màn hình thống kê tổng quan: </p>
  
- ![image](https://github.com/Draken1509/Draken1509-QL_NhaHang_Desktop/assets/86176263/4794c161-cd14-47b0-bbd7-240f45a0d793)
+![image](https://github.com/Draken1509/Draken1509-QL_NhaHang_Desktop/assets/86176263/4794c161-cd14-47b0-bbd7-240f45a0d793)
 
+ <p>Biểu mẫu word </p>
+ 
+![image](https://github.com/Draken1509/Draken1509-QL_NhaHang_Desktop/assets/86176263/0c6c8654-4699-41d0-bd47-44f08246f3f8)
+
+<p> Các mức thời gian có thể thống kê</p>
+
+![image](https://github.com/Draken1509/Draken1509-QL_NhaHang_Desktop/assets/86176263/d0919a8e-2bed-4375-8f12-8faf22572840)
+
+<p>Thòi gian tùy chỉnh </p>
+
+![image](https://github.com/Draken1509/Draken1509-QL_NhaHang_Desktop/assets/86176263/33ba5d0e-b816-4f16-85bd-35c8c598c2b3)
+
+<p> Biểu đồ cột </p>
+
+![image](https://github.com/Draken1509/Draken1509-QL_NhaHang_Desktop/assets/86176263/c5fbd6e1-e9c7-4a8c-9e23-095f25f17816)
+
+<p> Biểu đồ tròn </p>
+
+![image](https://github.com/Draken1509/Draken1509-QL_NhaHang_Desktop/assets/86176263/ddecc813-f40a-4b6f-9ff5-b823831bdf1a)
 
 
      
