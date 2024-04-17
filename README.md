@@ -34,6 +34,31 @@
 
 ![image](https://github.com/Draken1509/Draken1509-QL_NhaHang_Desktop/assets/86176263/ddecc813-f40a-4b6f-9ff5-b823831bdf1a)
 
+![image](https://github.com/Draken1509/Draken1509-QL_NhaHang_Desktop/assets/86176263/b36df10e-b107-45f4-90b3-706f80f8318f)
+
+![image](https://github.com/Draken1509/Draken1509-QL_NhaHang_Desktop/assets/86176263/ea9c0bc4-43bf-428d-9a43-f1a1f4f40201)
+
+<p> Biểu mẫu Excel </p>
+
+![image](https://github.com/Draken1509/Draken1509-QL_NhaHang_Desktop/assets/86176263/29b7e2d7-8738-4bf3-a6a7-36470402de06)
+
+
+<p> Form bán hàng </p>
+
+![image](https://github.com/Draken1509/Draken1509-QL_NhaHang_Desktop/assets/86176263/4e520938-1018-4b02-9dc3-31e44c35f994)
+
+<p> Hóa đơn </p>
+
+![image](https://github.com/Draken1509/Draken1509-QL_NhaHang_Desktop/assets/86176263/8e5e5edf-a42b-4081-b781-83b2d2dddf1a)
+
+<p>giao dien web</p>
+
+![image](https://github.com/Draken1509/Draken1509-QL_NhaHang_Desktop/assets/86176263/21bce13e-0533-4fa9-a1fb-3668d877583d)
+
+
+
+
+
 
      
 
