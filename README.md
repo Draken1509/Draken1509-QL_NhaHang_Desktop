@@ -10,6 +10,9 @@
  - Thống kê 
  </h4>
  <h4> Một số màn hình :</h4>
+ <p>Màn hình thống kê tổng quan: </p>
+ 
+ ![image](https://github.com/Draken1509/Draken1509-QL_NhaHang_Desktop/assets/86176263/4794c161-cd14-47b0-bbd7-240f45a0d793)
 
 
 
