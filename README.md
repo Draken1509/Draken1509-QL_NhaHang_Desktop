@@ -9,6 +9,7 @@
  - Quản lý nhập hàng
  - Thống kê 
  </h4>
+ <h4>Vai trò: Thiết kết giao diện, quản lý sản phẩm, thống kê </h4>
  <h4> Một số màn hình :</h4>
  <p>Màn hình thống kê tổng quan: </p>
  
